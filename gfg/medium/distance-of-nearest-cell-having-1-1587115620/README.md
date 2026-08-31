@@ -47,7 +47,7 @@ Explanation: The grid is -
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-31T13:58:44.825Z  
+**Submitted:** 2026-08-31T14:28:34.223Z  
 
 ```java
 class Solution {
