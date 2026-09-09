@@ -44,9 +44,9 @@ Output: [[0,0,0],[0,1,0],[1,2,1]]
 ## Solution
 
 **Language:** Java  
-**Runtime:** 14 ms (beats 70.99%)  
-**Memory:** 49.1 MB (beats 60.10%)  
-**Submitted:** 2026-09-09T13:20:15.712Z  
+**Runtime:** 17 ms (beats 18.95%)  
+**Memory:** 49.2 MB (beats 44.67%)  
+**Submitted:** 2026-09-09T13:20:50.461Z  
 
 ```java
 class Solution {
